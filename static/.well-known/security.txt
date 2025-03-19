@@ -1,0 +1,4 @@
+Contact: security@khulnasoft.com
+Preferred-Languages: en, de
+Canonical: https://www.khulnasoft.com/.well-known/security.txt
+Hiring: https://khulnasoft.com/careers
